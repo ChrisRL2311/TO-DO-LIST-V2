@@ -45,7 +45,7 @@
 </template>
 
 <script>
-import EditorDeToDoList from './EditorDeToDoList.vue'
+import EditorDeToDoList from './Editor.vue'
 
 export default {
   data() {

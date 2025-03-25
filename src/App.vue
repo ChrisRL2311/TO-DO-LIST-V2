@@ -1,6 +1,6 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import ToDoList from './components/ToDoList.vue'
+import ToDoList from './components/Padre.vue'
 </script>
 
 <template>
